@@ -1,5 +1,5 @@
 **Resume Analyser**
-an AI powered resume analyser that reads and extracts text from given PDF and helps in making a cohesive list of all the important details, as well as suggesting improvements and future considerations.
+/nan AI powered resume analyser that reads and extracts text from given PDF and helps in making a cohesive list of all the important details, as well as suggesting improvements and future considerations.
 
 **Built with:**
 1. Python
